@@ -1,0 +1,15 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+img{
+    border:5px -moz-default-background-color orangered;
+}
+.dogone{
+    border: 5px Window orangered;
+
+}
+.dogtwo{
+    border:5px groove orangered;
+}
+
